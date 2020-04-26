@@ -1,0 +1,31 @@
+Possible problems:
+
+1. Isduoti knyga:
+Pavadinimas:
++ negali nebuti tokio
+Vardas:
++ negali nebuti tokio
+
+2. Knyga:
+Vardas ir Pavarde:
++ turi buti tik alphabetic + ‘ + .
+Pavadiniminas:
++ turi but tik alphanumeric + ‘ + .
+Isleidimo metai:
++ gali buti tik numeric and between 0 and 2020
+
+3. Skaitytojas:
+Vardas ir pavarde:
++ turi buti tik alphabetic + ‘ + .
+Adresas: 
++ gali buti tik alphanumeric + ‘ + .
+Telefonas:
++ Telefono numeris turi buti tik numeric + (+)
+
+
+Major problem that i couldnt fix is database
+not accepting strings with ' and . but it's 
+working in code.
+
+
+
